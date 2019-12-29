@@ -1,0 +1,82 @@
+body{margin:0px;
+background-image:url(../images/mm_bg_red.gif);
+background-position:center; 
+}
+/*top div*/
+#body_area{width:1024px; padding-left:138px;
+		 padding-right:138px; height:900px; }
+
+#use_area{width:1024px; background-color:#220103; height:109px;}
+/*header div*/
+#header_area2{width:auto; margin-left:250px;}
+
+#header_img_left{background-image:url(../images/mm_spa_photo1.jpg); float:left; 
+		background-repeat:no-repeat; height:109px; width:215px;}
+
+#header_img_right{	background-image:url(../images/mm_spa_photo2.jpg);
+	float:right;	vertical-align:top;	background-repeat:no-repeat;	height:109px;	width:215px;
+}
+		
+#header_img_center{ background-image:url(../images/logo_img.png); background-position:center;
+		background-repeat:no-repeat; height:109px; width:500px;}
+		
+/*menu*/ 
+#menu_border{background-color:#FFFF00; width:1024px; height:1px;}
+#menu_border2{background-color:#FF080E;   width:1024px; height:25px; padding-top:2px;text-align:center; font-family:arial; font-size:14px;}
+#menu_border3{background-color:#FFFF00; width:1024px; height:1px;}
+/*Menu Link*/
+
+.menu{font-family:Arial, Helvetica, sans-serif; text-decoration:none;
+		font-size:14px; color:#fff;}
+.menu:hover{font-family:Arial, Helvetica, sans-serif;
+		font-size:14px; color:#090980;}
+		
+/*--------------slider-------------r*/
+
+#slide_border2{ background-color:#2031CC;background-repeat:no-repeat; background-position:center; width:1024px; height:250px;}
+
+/*--------------slider header-------------r*/
+#slide_show{ width:1024px; height:250px;}
+
+/*--------------slider header-------------r*/
+#slide_border3{background-color:#FFFF00; width:1024px; height:1px;}
+
+
+
+
+/*Center*/
+#center{width:1024px; background-color:#CCCCCC; height:400px;}
+#center_foot_slide{width:1024px; background-color:#B30000; height:85px;}
+#center_footer{width:1024px; background-color:#CCCCCC; height:auto;}
+
+
+/*-------------photo page---------*/
+#center_photo_slide{width:780px; height:90px;}
+#slide_photo_page{ padding:20px;}
+
+/*-------------Center Body------------*/
+#center_body{ background-color:#99120B; width:781px; float:left; height:400px;}
+#center_body1{width:774px; height:35px; margin-left:10px; background-image:url(../images/wel.png); background-repeat:no-repeat; background-position:left;}
+#center_all{width:774px; height:auto; padding-left:10px; padding-top:5px;  background-repeat:no-repeat; background-position:left; font-family:Arial, Helvetica, sans-serif;
+			font-size:16px; color:#fff;font-weight:bold;}
+#text_body{width:760px; padding:10px;}
+/*----------center text-----------*/
+.text_center{font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#FFFF00; text-align:justify;}
+
+/*-------Form Style-----------*/
+
+
+
+/*---------------End----------------------*/
+ 
+/*------------right Bar*----------------*/
+#right_bar{width:240px; height:400px;background-color:#FFFFCC; float:right;}
+#right_head{width:100%; height:35px; background-image:url(../images/latest-news.png); background-color:#1BA7C5;background-position:center; background-repeat:no-repeat;}
+#right_body{width:240px; height:auto; padding-top:1px;}
+#right_facebook{width:240px; height:auto; padding-top:1px;}
+
+/*--------------- Slide Footer------------------*/
+#slide_foot{ padding-top:6px; padding-bottom:6px;}
+/* -------Footer------------*/
+#foot_bar{width:1024px; height:40px; background-color:#FF080E; float:inherit; vertical-align:bottom;}
+.fooot{font-family:Arial, Helvetica, sans-serif; font-size:12px; height:500px; text-align:center; color:#fff; }
